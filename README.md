@@ -1,9 +1,11 @@
 # 431hw1
 
-Pick any animal of your choosing. You will create a webpage about this animal using HTML. Things to include:
+Pick any animal of your choosing. You will create a webpage about this animal using HTML. 
+Things to include:
 • Main title that is underlined (ex. "All About Kangaroos")
 
 Include all 5 sections (Quick Facts, Top Predators, About, Images, and Citations) that are headers of the page. Headers should all be the same size.
+
 a. Quick Facts: Find 5 quick facts about your animal and list them in bullet points. One of them needs to be "Scientific Name" and have the name be italicized. The rest of the points should be bolded.
 b. Top Predators: Find 3 predators of the animal and list them in order.
 c. About: Write a short paragraph (3-5 sentences) about the animal.
